@@ -4,7 +4,7 @@ library(corrplot)
 library(phytools)
 library(ggtree)
 
-data <- read.csv("Data/SextbookV3.csv")
+data <- read.csv("Data/SextbookV4.csv")
 
 species <- data$Species
 species <- gsub(" ", "_",species)
@@ -25,7 +25,7 @@ data <- data[match(phylogeny$tip.label, data$Species),]
 phylogeny <- drop.tip(phylogeny, c(which(phylogeny$tip.label %ni% data$Species)))
 data <- data[match(phylogeny$tip.label, data$Species),]
 
-#Generate the phylogentically independent contrasts
+#Generate the phylogenetically independent contrasts
 for(i in 7:ncol(data)){
   DATA <- data[,i]
   BAD <- which(is.na(DATA))
@@ -47,7 +47,7 @@ for(i in 7:ncol(data)){
       path <- paste("Figures/", names(data)[i],".png", sep = "")
       png(filename=path,
           width = 6, height = 10, units = "in",
-          res = 600)
+          res = 300)
       
       plot(phylogeny,
            tip.color=df$color,
@@ -89,7 +89,7 @@ for(i in 7:ncol(data)){
       path <- paste("Figures/", names(data)[i],".png", sep = "")
       png(filename=path,
           width = 6, height = 10, units = "in",
-          res = 600)
+          res = 300)
       
       plot(phylogeny,
            tip.color=df$color,
@@ -123,11 +123,13 @@ data_nums <- data[,keepers]
 
 png(filename="Figures/Correlations.png",
     width = 6.86, height = 6, units = "in",
-    res = 600)
+    res = 300)
 corrplot::corrplot(cor(data_nums,
                        use = "pairwise.complete.obs"),
                    tl.cex = 0.5,
-                   tl.col = "black")
+                   tl.col = "black",
+                   type = "upper",
+                   diag = FALSE)
 dev.off()
 
 
