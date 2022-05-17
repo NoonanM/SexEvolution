@@ -26,7 +26,7 @@ phylogeny <- drop.tip(phylogeny, c(which(phylogeny$tip.label %ni% data$Species))
 data <- data[match(phylogeny$tip.label, data$Species),]
 
 #Generate the phylogenetically independent contrasts
-for(i in 7:ncol(data)){  #22 struggles with the seq(by = X) interval
+for(i in 7:ncol(data)){  #22, 61, and 81 struggle with the seq(by = X) interval
   
   #Store the indexed trait
   DATA <- data[,i]
