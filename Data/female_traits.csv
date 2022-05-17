@@ -1,0 +1,117 @@
+﻿Common_Name,Species,Phylum,Class,Order,Family,earliest_puberty_age_F_(months),Female_Body_Mass_(g),oviduct_lenght_(mm),Cycle_Length_(days),Length_receptvivity_(days),reproductive_senescence_F_(months),gestation_length_(days),Combined_ovary_weight_(g),ovary_%BW,folliculogenesis _length_(days),Age_eyes_open_(days),Lactation_length_(weeks)
+Bull,Bos Taurus,Chordata,Mammalia,Artiodactyla,Bovidae,8.70,327500.00,227.50,21.00,1.00,,283.00,15.53,0.00,90.00,0.00,43.00
+Water Buffalo,Bubalus bubalis,Chordata,Mammalia,Artiodactyla,Bovidae,15.00,800000.00,210.00,21.00,1.27,,315.00,7.00,0.00,,0.00,38.00
+Goat,Capra hircus,Chordata,Mammalia,Artiodactyla,Bovidae,7.20,25000.00,189.08,21.00,1.17,,150.40,1.25,0.00,,0.00,40.00
+Iberian Ibex,Capra pyrenaica,Chordata,Mammalia,Artiodactyla,Bovidae,18.00,31300.00,,19.40,,,164.50,,,,0.00,14.00
+Sheep,Ovis Aries,Chordata,Mammalia,Artiodactyla,Bovidae,5.80,47500.00,198.00,17.00,1.25,,145.00,1.79,0.00,168.50,0.00,21.00
+Mouflon ,Ovis musimon,Chordata,Mammalia,Artiodactyla,Bovidae,8.28,35000.00,,17.00,1.50,,155.00,,,,0.00,12.00
+Bison,Bison bison,Chordata,Mammalia,Artiodactyla,Bovidae,24.00,452800.00,25.26,20.80,NA,,273.15,,,,0.00,
+Scimitar Oryx,Oryx dammah,Chordata,Mammalia,Artiodactyla,Bovidae,21.00,115000.00,,22.70,0.00,,270.00,,,,0.00,15.00
+Brown-throated sloth,Bradypus variegatus,Chordata,Mammalia,Pilosa,Bradypodidae,36.00,6313.33,24.50,60.00,NA,,165.00,,,,0.00,16.00
+Maned sloth,Bradypus torquatus,Chordata,Mammalia,Pilosa,Bradypodidae,24.00,7500.00,75.00,NA,NA,,106.00,,,,0.00,16.00
+Pale-throated sloth,Bradypus tridactylus,Chordata,Mammalia,Pilosa,Bradypodidae,36.00,3500.00,,NA,NA,,247.00,,,,0.00,
+Bactrian Camel,Camelus bactrianus,Chordata,Mammalia,Artiodactyla,Camelidae,48.00,450000.00,230.00,28.00,5.00,,400.00,12.40,0.00,,0.00,65.00
+Dromedary Camel,Camelus dromedarius,Chordata,Mammalia,Artiodactyla,Camelidae,24.00,361000.00,220.00,22.00,3.50,,389.40,7.00,0.00,,0.00,69.00
+Llama,Lama glama,Chordata,Mammalia,Artiodactyla,Camelidae,12.00,104600.00,140.00,16.00,NA,,348.50,,,,0.00,27.00
+Alpaca,Vicugna pacos,Chordata,Mammalia,Artiodactyla,Camelidae,12.00,60000.00,204.00,18.00,NA,,350.00,25.90,0.04,,0.00,49.00
+Vicuna,Vicugna vicugna,Chordata,Mammalia,Artiodactyla,Camelidae,24.00,50000.00,,37.00,35.00,,341.80,,,,0.00,56.00
+Guanaco,Lama guanicoe,Chordata,Mammalia,Artiodactyla,Camelidae,24.00,120000.00,,36.00,36.00,,308.00,,,,0.00,42.00
+Grey Wolf,Canis lupus,Chordata,Mammalia,Carnivora,Canidae,6.00,39300.00,55.00,113.00,7.00,,63.00,,,170.00,14.00,8.00
+Coyote,Canis latrans,Chordata,Mammalia,Carnivora,Canidae,9.00,12500.00,,126.00,7.60,,61.50,,,,12.00,30.00
+African Wild/painted Dog,Lycaon pictus,Chordata,Mammalia,Carnivora,Canidae,21.30,26000.00,,91.00,5.00,,71.00,,,,21.00,10.00
+Maned wolf,Chrysocyon brachyurus,Chordata,Mammalia,Carnivora,Canidae,24.33,23000.00,,100.00,10.00,,65.00,,,,9.00,15.00
+Dog,Canis familiaris,Chordata,Mammalia,Carnivora,Canidae,6.00,12450.00,,180.00,9.00,,63.00,,,,12.00,8.00
+Guinea Pig,Cavia porcellus,Chordata,Mammalia,Rodentia,Caviidae,2.00,535.00,,16.00,0.35,,67.00,,,,0.00,3.00
+Capybara,Hydrochoerus hydrochaeris,Chordata,Mammalia,Rodentia,Caviidae,6.00,62000.00,,7.50,0.33,,150.00,,,,0.00,6.43
+Olive baboon,Papio anubis,Chordata,Mammalia,Primates,Cercopithecidae,,13300.00,,39.90,17.50,300.00,185.00,,,,0.00,
+Rhesus macaque,Macaca mulatta,Chordata,Mammalia,Primates,Cercopithecidae,30.00,8800.00,,27.50,9.50,300.00,166.00,,,,0.00,52.00
+Elk,Cervus canadensis,Chordata,Mammalia,Cetartiodactyla,Cervidae,,241000.00,,18.30,1,,251.00,,,,0.00,8.00
+Reindeer,Rangifer tarandus,Chordata,Mammalia,Cetartiodactyla,Cervidae,8.00,120000.00,,21.00,0.04,,230.00,1.50,0.00,,0.00,21.00
+Red Deer,Cervus elaphus,Chordata,Mammalia,Cetartiodactyla,Cervidae,16.00,125000.00,97.90,18.30,1.00,,247.00,,,,0.00,16.00
+Fallow deer,Dama dama,Chordata,Mammalia,Cetartiodactyla,Cervidae,16.00,50000.00,109.60,22.40,1.00,,231.00,,,,0.00,15.00
+Père David's deer,Elaphurus davidianus,Chordata,Mammalia,Cetartiodactyla,Cervidae,24.00,190000.00,154.88,19.60,NA,,280.00,,,,0.00,
+Sika deer,Cervus nippon,Chordata,Mammalia,Cetartiodactyla,Cervidae,16.00,81000.00,66.47,15.00,"1,5",,231.00,,,,0.00,40.00
+Korean water deer,Hydropotes inermis argyropus,Chordata,Mammalia,Cetartiodactyla,Cervidae,7.50,15200.00,,NA,NA,,170.00,,,,0.00,
+Roe deer,Capreolus capreolus,Chordata,Mammalia,Cetartiodactyla,Cervidae,14.00,18000.00,,NA,1.50,,300.00,,,,0.00,12.00
+White-tailed deer (North America),Odocoileus virginianus,Chordata,Mammalia,Cetartiodactyla,Cervidae,12.00,60000.00,,26.60,2.00,,200.00,0.60,0.00,,0.00,10.00
+White-tailed deer (South America),Odocoileus virginianus,Chordata,Mammalia,Cetartiodactyla,Cervidae,15.00,30000.00,,NA,NA,,202.00,,,,0.00,28.00
+Pampas deer,Ozotoceros bezoarticus,Chordata,Mammalia,Cetartiodactyla,Cervidae,14.00,23000.00,,21.00,NA,,232.00,0.14,0.00,,0.00,16.00
+Marsh deer,Blastocerus dichotomus,Chordata,Mammalia,Cetartiodactyla,Cervidae,,80000.00,,21.00,1.00,,253.00,,,,0.00,16.00
+Brown brocket deer,Mazama gouazoubira,Chordata,Mammalia,Cetartiodactyla,Cervidae,13.00,20000.00,,26.00,2.00,,232.00,,,,0.00,16.00
+Amazonian brown brocket deer,Mazama nemorivaga,Chordata,Mammalia,Cetartiodactyla,Cervidae,,16000.00,,NA,1.50,,232.00,,,,0.00,16.00
+Brazilian dwarf brocket deer,Mazama nana,Chordata,Mammalia,Cetartiodactyla,Cervidae,,15000.00,,23.80,1.50,,217.00,,,,0.00,16.00
+Red brocket deer,Mazama americana,Chordata,Mammalia,Cetartiodactyla,Cervidae,15.00,40000.00,7.94,21.00,1.50,,220.00,,,,0.00,16.00
+Small red brocket deer,Mazama bororo,Chordata,Mammalia,Cetartiodactyla,Cervidae,,,,NA,NA,,210.00,,,,0.00,
+Pudu deer,Pudu puda,Chordata,Mammalia,Cetartiodactyla,Cervidae,12.00,9000.00,,11.00,2.00,,202.00,,,,0.00,45.00
+North Andean deer,Hippocamelus antisensis,Chordata,Mammalia,Cetartiodactyla,Cervidae,12.00,46000.00,,NA,NA,,240.00,,,,0.00,
+Sambas deer,Rusa unicolor niger,Chordata,Mammalia,Cetartiodactyla,Cervidae,21.00,164500.00,119.24,18.20,NA,,255,,,,0.00,21.00
+Eld's deer,Cervus eldii thamin,Chordata,Mammalia,Cetartiodactyla,Cervidae,24.00,50000.00,,17.00,2.00,,242.00,1.10,0.00,,0.00,35.00
+Axis deer,Axis axis,Chordata,Mammalia,Cetartiodactyla,Cervidae,12.00,50000.00,,19.30,NA,,234.50,0.50,0.00,,0.00,12.00
+Tufted deer,Elaphodus cephalophus,Chordata,Mammalia,Cetartiodactyla,Cervidae,9.50,40000.00,,NA,NA,144.00,187.50,,,,0.00,
+Thorold's deer,Cervus albirostris,Chordata,Mammalia,Cetartiodactyla,Cervidae,17.00,160000.00,121.90,NA,NA,,235.00,,,,0.00,
+Indian Hog Deer,Axis porcinus porcinus,Chordata,Mammalia,Cetartiodactyla,Cervidae,8.00,54000.00,78.76,16.00,2.00,,240.00,,,,0.00,24.00
+Swamp deer,Rucervus duvaucelii,Chordata,Mammalia,Cetartiodactyla,Cervidae,24.00,145000.00,48.24,21.30,1.50,,245.00,,,,0.00,24.00
+Reeves's muntjac,Muntiacus reevesi,Chordata,Mammalia,Cetartiodactyla,Cervidae,6.00,6800.00,,16.00,NA,,210.00,,,,0.00,24.00
+Indian muntjac,Muntiacus muntjak,Chordata,Mammalia,Cetartiodactyla,Cervidae,6.00,22000.00,33.44,16.00,2.00,,180.00,,,,0.00,
+Six-banded armadillo,Euphractus sexcinctus,Chordata,Mammalia,Cingulata,Chlamyphoridae,9.00,4850.00,,23.50,NA,,68.00,,,,23.50,18.00
+Golden Hamster,Mesocricetus auratus,Chordata,Mammalia,Rodentia,Cricetidae,1.50,110.00,,4.00,0.50,,16.00,,,,16.00,3.50
+Nine-banded armadillo,Dasypus novemcinctus,Chordata,Mammalia,Cingulata,Dasypodidae,15.00,4760.00,,NA,NA,,120.00,,,,0.00,17.00
+Common Bottlenose Dolphin,Tursiops truncatus,Chordata,Mammalia,Artiodactyla,Delphinidae,102.00,175000.00,,31.50,10.00,501.60,365.00,7.80,0.00,,0.00,76.00
+Orca/killer whale,Orcinus orca,Chordata,Mammalia,Artiodactyla,Delphinidae,204.00,4250000.00,,41.00,NA,510.00,517.00,,,,0.00,72.00
+Virginia Opossum,Didelphis virginiana,Chordata,Mammalia,Didelphimorphia,Didelphidae,6.00,2000.00,,28.00,1.50,,13.00,,,,60.00,8.50
+African elephant,Loxodonta africana,Chordata,Mammalia,Proboscidea,Elephantidae,96.00,2510000.00,,136.50,3.00,828.00,653.00,,,,0.00,182.00
+Asian elephant,Elephas maximus,Chordata,Mammalia,Proboscidea,Elephantidae,,2636000.00,,108.00,2.50,636.00,608.00,,,,0.00,104.00
+Horse,Equus caballus,Chordata,Mammalia,Perissodactyla,Equidae,12.00,320000.00,,22.00,6.00,,349.00,,,,0.00,24.00
+Donkey,Equus asinus,Chordata,Mammalia,Perissodactyla,Equidae,12.00,220000.00,,24.00,6.30,192.00,380.00,,,,0.00,28.00
+Cat,Felis catus,Chordata,Mammalia,Carnivora,Felidae,4.00,3231.00,,14.00,5.00,,64.00,,,,12.00,8.00
+Tiger,Panthera tigris,Chordata,Mammalia,Carnivora,Felidae,36.00,133500.00,,25.00,5.30,,108.00,,,,10.00,18.00
+Lions,Panthera Leo,Chordata,Mammalia,Carnivora,Felidae,,152000.00,,17.50,4.40,,110.00,,,,0.00,32.00
+Jaguar,Panthera onca,Chordata,Mammalia,Carnivora,Felidae,22.00,68000.00,,38.28,10.42,,99.00,,,,8.00,22.00
+Eurasian Lynx,Lynx lynx,Chordata,Mammalia,Carnivora,Felidae,24.00,14500.00,,NA,4.50,168.00,70.50,0.99,0.01,,11.00,10.00
+Iberian Lynx,Lynx pardinus,Chordata,Mammalia,Carnivora,Felidae,36.00,9600.00,,NA,5.00,,68.00,,,,19.16,9.14
+Clouded leopard,Neofelis nebulosa,Chordata,Mammalia,Carnivora,Felidae,17.00,12000.00,,29.90,6.00,144.00,93.00,,,,10.00,12.00
+Cheetah,Acinonyx jubatus,Chordata,Mammalia,Carnivora,Felidae,24.00,49000.00,,12.00,4.00,,94.00,,,,7.50,18.00
+Naked Mole Rat,Heterocephalus glaber,Chordata,Mammalia,Rodentia,Heterocephalidae,7.00,71.00,,34.00,1.00,,70.00,,,,30.00,6.00
+Hippo,Hippopotamus amphibius,Chordata,Mammalia,Artiodactyla,Hippopotamidae,43.00,1400000.00,425.00,33.50,NA,,233.50,,,,0.00,48.71
+Humans,Homo sapiens ,Chordata,Mammalia,Primates,Hominidae,120.00,62100.00,24.00,28.00,28.00,516.00,280.00,6.00,0.01,290.00,0.00,
+Spotted hyena,Crocuta crocuta,Chordata,Mammalia,Carnivora,Hyaenidae,21.00,67038.00,,23.00,2.50,192.00,110.00,,,,0.00,55.00
+Ring-tailed lemur,Lemur catta,Chordata,Mammalia,Primates,Lemuridae,18.00,2200.00,,39.30,1.50,,136.00,,,,0.00,21.00
+Common brown lemur,Eulemur fulvus,Chordata,Mammalia,Primates,Lemuridae,12.00,2500.00,,30.00,1.00,,120.00,,,,0.00,19.00
+European Hare,Lepus europaeus,Chordata,Mammalia,Lagomorpha,Leporidae,4.00,3430.00,,NA,NA,,41.50,,,,0.00,14.00
+European Rabbit,Oryctolagus cuniculus,Chordata,Mammalia,Lagomorpha,Leporidae,4.00,1540.00,,7.00,NA,,31.50,,,,11.00,4.50
+Eastern Cottontail,Sylvilagus floridanus,Chordata,Mammalia,Lagomorpha,Leporidae,,1200.00,,NA,NA,,27.00,,,,7.00,3.50
+Greater Slow loris,"Nycticebus coucang
+",Chordata,Mammalia,Primates,Lorisidae,17.00,640.00,,36.40,1.55,,191.00,,,,0.00,
+Tammar Wallaby,Macropus eugenii,Chordata,Mammalia,Diprotodontia,Macropodidae,9.75,4500.00,,30.60,1.50,,26.50,,,,142.00,46.00
+Southern two-toed sloth,Choloepus didactylus ,Chordata,Mammalia,Pilosa,Megalonychidae,36.00,8400.00,,31.40,55.00,,289.50,,,,0.00,20.00
+Rat,Rattus norvegicus,Chordata,Mammalia,Rodentia,Muridae,1.67,267.00,,4.50,0.83,20.00,24.00,,,,15.00,4.00
+Mouse,Mus musculus,Chordata,Mammalia,Rodentia,Muridae,1.00,15.00,,4.50,0.63,8.00,19.00,0.04,0.27,,14.00,3.00
+Mink,Mustela vison,Chordata,Mammalia,Carnivora,Mustelidae,10.00,780.00,,28.58,6.46,,57.00,0.22,0.03,,25.00,9.00
+European Badger,Meles meles,Chordata,Mammalia,Carnivora,Mustelidae,11.00,9980.00,,NA,NA,,49.00,,,,35.00,13.00
+Ferret,Mustela putorious furo,Chordata,Mammalia,Carnivora,Mustelidae,6.00,794.00,,NA,36.00,,42.00,,,,35.00,6.50
+European Otter,Lutra lutra,Chordata,Mammalia,Carnivora,Mustelidae,18.00,6000.00,,NA,NA,,62.00,,,,32.00,16.00
+Giant anteater,Myrmecophaga tridactyla,Chordata,Mammalia,Pilosa,Myrmecophagidae,30.00,315000.00,,55.00,2.50,,183.67,,,,6.00,43.00
+Lesser anteater,Tamandua tetradactyla,Chordata,Mammalia,Pilosa,Myrmecophagidae,12.00,4830.00,,42.50,9.50,,160.00,,,,,
+Walrus,Odobenus rosmarus,Chordata,Mammalia,Carnivora,Odobenidae,60.00,862000.00,,NA,NA,,450.00,,,,0.00,96.00
+Platypus,Ornithorhynchus anatinus,Chordata,Mammalia,Monotremata,Ornithorhynchidae,24.00,1300.00,,41.00,29.60,,16.25,,,,77.00,19.07
+California Sea Lion,Zalophus californianus,Chordata,Mammalia,Carnivora,Otariidae,48.00,100000.00,,NA,NA,,330.00,,,,0.00,36.00
+Common brushtail possum,Trichosurus vulpecula,Chordata,Mammalia,Diprotodontia,Phalangeridae,12.00,3150.00,,27.00,NA,,17.50,,,,60.00,28.50
+Gray Seal,Halichoerus grypus,Chordata,Mammalia,Carnivora,Phocidae,36.00,245000.00,,NA,NA,,334.50,,,,0.00,2.50
+Vaquita,Phocoena sinus,Chordata,Mammalia,Artiodactyla,Phocoenidae,36.00,46500.00,,NA,NA,,334.50,,,,0.00,41.00
+Gorilla,Gorilla gorilla,Chordata,Mammalia,Primates,Pongidae,96.00,71500.00,,31.00,3.50,402.00,267.00,,,,0.00,182.00
+Chimpanzee,Pan troglodytes,Chordata,Mammalia,Primates,Pongidae,,45800.00,,36.00,10.25,456.00,240.00,,,,0.00,260.00
+White rhinoceros,Ceratotherium simum,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,32.00,1900000.00,,35.40,1.00,498.00,540.00,,,,0.00,62.00
+Greater Horseshoe Bat,Rhinolophus ferrumequinum,Chordata,Mammalia,Chiroptera,Rhinolophidae,4.00,23.00,,NA,NA,,91.00,,,,7.00,8.00
+Blind Mole Rat,Spalax ehrenbergi,Chordata,Mammalia,Rodentia,Spalacidae,4.00,50.00,,,64.00,,34.00,,,,,3.00
+Pig,Sus Scrofa domesticus,Chordata,Mammalia,Artiodactyla,Suidae,20.00,51700.00,210.00,21.00,2.10,,114.00,3.60,0.01,,0.00,7.00
+Wild boar,Sus scrofa scrofa,Chordata,Mammalia,Artiodactyla,Suidae,10.00,70000.00,,21.00,2.50,,115.00,,,,0.00,10.00
+Warthog,Phacochoerus africanus,Chordata,Mammalia,Artiodactyla,Suidae,18.00,105000.00,,35.00,3.00,,167.50,,,,0.00,24.00
+Javan pig,Sus verrucosus,Chordata,Mammalia,Artiodactyla,Suidae,9.13,44000.00,,NA,NA,,122.00,,,,0.00,14.00
+Short-beaked echidna,Tachyglossus aculeatus,Chordata,Mammalia,Monotremata,Tachyglossidae,36.00,4500.00,,20.50,NA,,23.00,,,,,27.50
+Central American tapir,Tapirus bairdii,Chordata,Mammalia,Perissodactyla,Tapiridae,14.00,300000.00,72.25,30.00,1.80,,400.00,,,,0.00,17.00
+Lowland Tapir,Tapirus terrestris,Chordata,Mammalia,Perissodactyla,Tapiridae,,210000.00,,31.00,NA,,395.00,,,,0.00,28.00
+Brown bear,Ursus arctos,Chordata,Mammalia,Carnivora,Ursidae,36.00,157500.00,,NA,25.00,348.00,225.00,,,,42.00,156.00
+Polar bear,Ursus maritimus,Chordata,Mammalia,Carnivora,Ursidae,42.00,320000.00,,NA,NA,,230.00,,,,30.00,130.00
+Sloth bear,Melursus ursinus,Chordata,Mammalia,Carnivora,Ursidae,36.50,95000.00,,NA,NA,,197.00,,,,24.00,52.00
+Giant Panda,"Ailuropoda melanoleuca
+",Chordata,Mammalia,Carnivora,Ursidae,66.00,96800.00,,10.50,2.50,,127.50,,,,56.00,39.00
